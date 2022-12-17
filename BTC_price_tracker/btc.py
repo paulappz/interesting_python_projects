@@ -1,4 +1,5 @@
 #usimg an api to fetech the price of BTC
+# https://min-api.cryptocompare.com/documentation
 
 
 import requests #for the api
